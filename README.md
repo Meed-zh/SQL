@@ -8,9 +8,9 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 
 ### soccer_country:
 
-country_id – this is a unique ID for each country
-country_abbr – this is the sort name of each country
-country_name – this is the name of each country
+country_id – this is a unique ID for each country,
+country_abbr – this is the sort name of each country,
+country_name – this is the name of each country,
 
 ### soccer_city:
 
