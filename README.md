@@ -4,7 +4,7 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 
 ![](soccer-database.png)
 
-## Description of tables:
+## List and description of tables:
 
 ### soccer_country:
 
@@ -156,3 +156,5 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 * match_no - this is the match_no which is referencing the match_no column of match_mast table
 * team_id – this is the ID of each team who are playing in the tournament and referencing the country_id column of soccer_country table
 * player_gk - the player who kept goal at the time of penalty shootout, is referencing the player_id column of player_mast table
+
+#### source : https://www.w3resource.com/sql-exercises/soccer-database-exercise/index.php
