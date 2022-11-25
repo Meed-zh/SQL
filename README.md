@@ -14,9 +14,9 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 
 ### soccer_city:
 
-city_id – this is a unique ID for each city
-city – this is the name of the city
-country_id – this is the ID of the country where the cities are located and only those countries will be available which are in soccer_country table
+*city_id – this is a unique ID for each city
+*city – this is the name of the city
+*country_id – this is the ID of the country where the cities are located and only those countries will be available which are in soccer_country table
 
 ### soccer_venue:
 
