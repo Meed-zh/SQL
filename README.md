@@ -2,7 +2,7 @@
 In this repository, I'll share my SQL work on a relational database of 18 tables. The database is about the UEFA EURO 2016 organized in France.
 
 #### [Basic Queries](Basic_queries.pdf)
-### [Join Queries](join-queries.pdf)
+#### [Join Queries](join-queries.pdf)
 
 ![](soccer-database.png)
 
