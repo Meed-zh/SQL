@@ -8,7 +8,7 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 
 ## List and description of tables:
 
-### soccer_country:
+### pays:
 
 * country_id – this is a unique ID for each country
 * country_abbr – this is the sort name of each country
