@@ -5,7 +5,7 @@ In this repository, I'll share my SQL work on a relational database of 18 tables
 
 ![](soccer-database.png)
 
-## List and description of tables:
+### List and description of tables:
 
 ### soccer_country:
 
